@@ -1,0 +1,10 @@
+# install4j response file for JIRA Software 8.5.0
+app.install.service$Boolean=true
+app.jiraHome=/var/atlassian/application-data/jira
+existingInstallationDir=/opt/JIRA Software
+launch.application$Boolean=true
+portChoice=default
+sys.adminRights$Boolean=true
+sys.confirmedUpdateInstallationString=false
+sys.installationDir=/opt/atlassian/jira
+sys.languageId=en
